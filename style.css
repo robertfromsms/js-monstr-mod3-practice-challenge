@@ -1,3 +1,8 @@
+h1 {
+	font-size: 5em;
+	color: DodgerBlue;
+}
+
 .monster-div {
 	display: block;
 	margin: 1em 10em 1em 10em;

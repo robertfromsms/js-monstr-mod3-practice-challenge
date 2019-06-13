@@ -70,7 +70,6 @@ document.addEventListener('DOMContentLoaded', async function(){
 	}
 
 	function toggle_form() {
-		console.log(monsterForm.hidden)
 		form_btn.innerText = form_btn.innerText.startsWith('Show') ? 'Hide new employee form' : 'Show new employee form'
 		monsterForm.hidden = monsterForm.hidden ? false : true
 	}
