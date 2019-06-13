@@ -1,0 +1,15 @@
+.monster-div {
+	display: block;
+	margin: 1em 10em 1em 10em;
+	border: 0.10em solid black;
+	border-radius: 2em;
+	background-color: #B9E7F7;
+}
+
+.monster-div * {
+	margin-left: 2em;
+}
+
+.monster-div .button-div{
+	margin-bottom: .8em;
+}
